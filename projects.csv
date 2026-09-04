@@ -1,0 +1,16 @@
+topic_id,title,domain,description,tech_stack,difficulty,duration
+T001,AI Chatbot for Student Support,AI,Build an intelligent chatbot to answer student questions and provide support,Python NLP NLTK Flask,Beginner,3 weeks
+T002,Healthcare Disease Prediction,Healthcare,Build a machine learning system to predict diseases from patient data,Python Scikit-learn Pandas Machine Learning,Intermediate,5 weeks
+T003,Fake News Detection,NLP,Detect fake and misleading news articles using natural language processing,Python NLP TF-IDF Scikit-learn,Intermediate,4 weeks
+T004,Smart Attendance System,Computer Vision,Create an automated attendance system using face recognition,Python OpenCV Face Recognition,Advanced,6 weeks
+T005,E-Commerce Recommendation System,E-Commerce,Recommend products to customers based on their interests and previous behavior,Python Pandas Scikit-learn Recommendation,Intermediate,5 weeks
+T006,Sentiment Analysis of Social Media,NLP,Analyze social media posts and classify them as positive negative or neutral,Python NLP NLTK Scikit-learn,Beginner,3 weeks
+T007,Sales Prediction System,Data Science,Build a system that predicts future sales using historical business data,Python Pandas Scikit-learn Regression,Beginner,4 weeks
+T008,Plant Disease Detection,Agriculture,Detect plant diseases from images using artificial intelligence,Python TensorFlow OpenCV Deep Learning,Advanced,7 weeks
+T009,Cybersecurity Intrusion Detection,Cybersecurity,Detect unusual network activity and possible security threats using machine learning,Python Machine Learning Scikit-learn Pandas,Advanced,6 weeks
+T010,Student Performance Prediction,Education,Predict student academic performance using machine learning and educational data,Python Pandas Scikit-learn Machine Learning,Beginner,3 weeks
+T011,Resume Screening System,AI,Analyze resumes and match candidates with suitable job opportunities,Python NLP TF-IDF Scikit-learn,Intermediate,4 weeks
+T012,Weather Prediction Using Machine Learning,Data Science,Predict weather conditions using historical weather data and machine learning,Python Pandas Scikit-learn Time Series,Intermediate,5 weeks
+T013,Voice Assistant Using NLP,NLP,Create a simple voice assistant that understands and responds to user commands,Python NLP Speech Recognition,Intermediate,5 weeks
+T014,Traffic Sign Recognition,Computer Vision,Recognize traffic signs from images using computer vision and deep learning,Python OpenCV TensorFlow CNN,Advanced,7 weeks
+T015,Movie Recommendation System,Recommendation,Recommend movies based on user interests and content similarity,Python Pandas Scikit-learn TF-IDF,Beginner,3 weeks

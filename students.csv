@@ -1,0 +1,9 @@
+student_id,name,interests,skills,academic_background,experience_level
+S001,Alice,AI NLP Chatbot Student Support,Python NLP NLTK,Computer Science,Beginner
+S002,Bob,Machine Learning Data Science Prediction,Python Pandas Scikit-learn,Data Science,Intermediate
+S003,Charlie,Computer Vision AI Images,Python OpenCV TensorFlow,Computer Science,Advanced
+S004,Diana,E-Commerce Recommendation Python,Python Pandas Scikit-learn,Computer Applications,Intermediate
+S005,Eve,NLP Social Media Sentiment Analysis,Python NLTK NLP,Computer Science,Beginner
+S006,Frank,Cybersecurity Machine Learning Security,Python Scikit-learn Pandas,Cybersecurity,Advanced
+S007,Grace,Healthcare AI Disease Prediction,Python Machine Learning Pandas,Computer Applications,Intermediate
+S008,Henry,Education Student Performance Data Science,Python Pandas Scikit-learn,Computer Applications,Beginner
